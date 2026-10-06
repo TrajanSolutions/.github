@@ -4,6 +4,10 @@
 
 Publish useful lessons that readers can understand and reproduce. Keep business/customer operations separate from educational examples.
 
+## NUBES scope
+
+Public NUBES material is restricted to informational comparisons of scaling options. Do not publish NUBES implementation architecture, source code, configurations, deployment tutorials, recovery procedures or customer/business operations. The tutorial workflow below applies to general security and IoT learning; it does not authorize a NUBES tutorial.
+
 ## Workflow
 
 1. Propose a topic in the appropriate public guide repository and identify the learner and outcome.
