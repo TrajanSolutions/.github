@@ -13,7 +13,7 @@ These learning paths currently include beginner planning exercises, roadmaps and
 
 ## NUBES
 
-Public NUBES content is limited to [informational scaling options](https://github.com/TrajanSolutions/nubes-guides). Deployment tutorials, implementation details, code and operational procedures are outside its public scope.
+Any future public NUBES content will be limited to informational comparisons of scaling options. No public NUBES guide is currently published. Deployment tutorials, implementation details, code and operational procedures are outside its public scope.
 
 ## Participate
 
